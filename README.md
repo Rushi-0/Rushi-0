@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rushi-0
-- 👀 I’m interested in Hacking, Cyber Security, Electronics Hardware, s3x ;)
+- 👀 I’m interested in Hacking, Cyber Security, Malware, Electronics Hardware, s3x ;)
 - 🌱 I’m currently learning Programming, Hacking, Networking, Server Hacking, Binary Exploitation, (etc)etcect 
 - 💞️ I’m looking to collaborate on IDK whats does that mean
 - 📫 How to reach me I am Anonymous -_-
